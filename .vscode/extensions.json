@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "alexiv.vscode-angular2-files",
+    "Angular.ng-template",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "Gruntfuggly.todo-tree",
+    "infinity1207.angular2-switcher",
+    "johnpapa.Angular2",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "Orta.vscode-jest",
+    "PKief.material-icon-theme",
+    "sanderledegen.angular-follow-selector",
+    "wix.vscode-import-cost",
+    "yzhang.markdown-all-in-one"
+  ]
+}
